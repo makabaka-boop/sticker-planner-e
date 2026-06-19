@@ -1,2 +1,5 @@
-# sticker-planner-e
-基于 Vue3 的纯前端手账贴纸主题整理工具，支持活动前管理贴纸包、主题卡、进度状态、筛选排序、批量更新、风险提示和活动包预览，并将数据保存在本地。
+# Vue 3 + TypeScript + Vite
+
+This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+
+Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
